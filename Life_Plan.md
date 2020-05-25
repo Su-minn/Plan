@@ -25,7 +25,9 @@
     틀을 뒤집고 판을 깨기 (Tool을 통해 - Notebook (?))
   - 내가 관심을 갖고 좋아하는 분야(Dev, Data Science, AI, IoT, Life Style, Health, Sports, Business,  
      Strategic Planning, Optimization, philosophy, Music, Fashion, Food 등) 들을  
-     나만의 색깔과 방식으로 엮어내고, 창조하는 일
+     나만의 색깔과 방식으로 엮어내고, 창조하는 일  
+     
+     ==Articulate==
   
 - Life Style Finding & Setting
   : 내가 살고자하는 방식을 찾고, 스스로 만족하는 방향으로 조금씩 개선
