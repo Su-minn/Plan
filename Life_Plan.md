@@ -17,11 +17,15 @@
 
 
 - Self_Branding
-  : 사는 곳, 직업, 나이가 아닌, 어떠한 가치관과 생각을 갖고 어떠한 일을 하고 어떠한 삶을 살고 있는지에 대한 글, 그림 혹은 어떠한 방식 (영상, 음악뿐만 아닌 유 무형의 모든 형태와 방식) 
+  : 사는 곳, 직업, 나이가 아닌, 어떠한 가치관과 생각을 갖고 어떠한 일을 하고 어떠한 삶을 살고 있는지에 대한 글,  
+   그림 혹은 어떠한 방식 (영상, 음악뿐만 아닌 유 무형의 모든 형태와 방식)   
   문서 및 컨텐츠화 예정
   - Outline
-    내가 만든 음악 -> 그 음악을 배경 삼아 영상 진행, 코딩을 활용한 편집 Optimization ~~, 틀을 뒤집고 판을 깨기 (Tool을 통해 - Notebook (?))
-  - 내가 관심을 갖고 좋아하는 분야(Dev, Data Science, AI, IoT, Life Style, Health, Sports, Business, Strategic Planning, Optimization, philosophy, Music, Fashion, Food 등) 들을 나만의 색깔과 방식으로 엮어내고, 창조하는 일
+    내가 만든 음악 -> 그 음악을 배경 삼아 영상 진행, 코딩을 활용한 편집 Optimization ~~,   
+    틀을 뒤집고 판을 깨기 (Tool을 통해 - Notebook (?))
+  - 내가 관심을 갖고 좋아하는 분야(Dev, Data Science, AI, IoT, Life Style, Health, Sports, Business,  
+     Strategic Planning, Optimization, philosophy, Music, Fashion, Food 등) 들을  
+     나만의 색깔과 방식으로 엮어내고, 창조하는 일
   
 - Life Style Finding & Setting
   : 내가 살고자하는 방식을 찾고, 스스로 만족하는 방향으로 조금씩 개선
@@ -182,14 +186,13 @@
 
 - Action Plan
 
-  - Life-Style Finding & Settings
-    [Routine](/Users/sjeon/Desktop/For_min/Plan/Routine.md)
-    	Miracle Morning
-    	Health
-    	Reading
-    	Micracle Dream
+  - Life-Style Finding & Settings  
+    [Routine](/Users/sjeon/Desktop/For_min/Plan/Routine.md)  
+    	Miracle Morning  
+    	Health  
+    	Reading  
+    	Micracle Dream    
 
-  
 
   - Dev
     : SSi-Python Project
