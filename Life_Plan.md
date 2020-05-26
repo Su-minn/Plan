@@ -27,7 +27,7 @@
      Strategic Planning, Optimization, philosophy, Music, Fashion, Food 등) 들을  
      나만의 색깔과 방식으로 엮어내고, 창조하는 일  
      
-     ==Articulate==
+     ==Articulate== : 분명하게 말하다
   
 - Life Style Finding & Setting
   : 내가 살고자하는 방식을 찾고, 스스로 만족하는 방향으로 조금씩 개선
@@ -164,14 +164,16 @@
 
 
 
-- Rule 
-  1) 모든 것에 대한 정리와 기록 (Titan's Tool -> My Tool)
+- Rule
+  
+  0) 즐기기, 목적이 전도되지 않도록, 모순적인 삶을 살지 않도록.  
+1) 모든 것에 대한 정리와 기록 (Titan's Tool -> My Tool)  
   완전히 나의 것으로 만들기 위한 노력
 
   - [Su-minn_Github](https://github.com/Su-minn)
 
-  - Su-minn_Tistory
-
+  - [Su-minn_Tistory](https://sumartweet.tistory.com/) : [Sumartweet](https://sumartweet.tistory.com/)
+  
   2) 'Why not?'
   남들이 6개월이 걸릴 것이라고 생각하는 일을, 1주일만에 할 수 있는 방법은 없는 지에 대한 끊임 없는 고민
 
@@ -194,17 +196,16 @@
     	Health  
     	Reading  
     	Micracle Dream    
-
-
-  - Dev
-    : SSi-Python Project
-
-    [참고 - Dev_Plan](/Users/sjeon/Desktop/For_min/Dev_Place/Dev_plan.md)
-
     
-
-  - Pipeline Setting
-    : [Shopee Project](/Users/sjeon/Desktop/Online_Business/Shopee/Doc/Shopee_Business_Management.md)
+    - Dev
+      : SSi-Python Project
+  
+      [참고 - Dev_Plan](/Users/sjeon/Desktop/For_min/Dev_Place/Dev_plan.md)
+  
+      
+  
+    - Pipeline Setting
+      : [Shopee Project](/Users/sjeon/Desktop/Online_Business/Shopee/Doc/Shopee_Business_Management.md)
 
 
 

@@ -85,8 +85,8 @@
 
 
 
-- [Week_1 (4.27 ~ 5.3)](/Users/sjeon/Desktop/For_min/Life_Style/2020/May/Week_1(4.27~5.3)/week_1_plan.md)
-- [Week_2 (5.4 ~ 5.10)](/Users/sjeon/Desktop/For_min/Life_Style/2020/May/Week_2(5.4~10)/week_2_plan.md)
-- [Week_3 (5.11 ~ 5.17)](/Users/sjeon/Desktop/For_min/Life_Style/2020/May/Week_3(5.11~17)/week_3_plan.md)
-- Week_4 (5.18 ~ 5.24)
-- Week_5 (5.25 ~ 5.31)
+- [Week_1 (4.27 ~ 5.3)](/Users/sjeon/Desktop/For_min/Life_Style/2020/May/Week_1(4.27~5.3)/week_1_result.md)
+- [Week_2 (5.4 ~ 5.10)](/Users/sjeon/Desktop/For_min/Plan/2020/May/Week_2(5.4~10)/week_2_result.md)
+- [Week_3 (5.11 ~ 5.17)](/Users/sjeon/Desktop/For_min/Plan/2020/May/Week_3(5.11~17)/week_3_result.md)
+- [Week_4 (5.18 ~ 5.24)](/Users/sjeon/Desktop/For_min/Plan/2020/May/Week_4(5.18~24)/week_4_result.md))
+- [Week_5 (5.25 ~ 5.31)](/Users/sjeon/Desktop/For_min/Plan/2020/May/Week_5(5.25~31)/week_5_result.md)
