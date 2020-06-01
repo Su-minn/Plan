@@ -22,7 +22,9 @@
   문서 및 컨텐츠화 예정
   - Outline
     내가 만든 음악 -> 그 음악을 배경 삼아 영상 진행, 코딩을 활용한 편집 Optimization ~~,   
-    틀을 뒤집고 판을 깨기 (Tool을 통해 - Notebook (?))
+    틀을 뒤집고 판을 깨기 (Tool을 통해 - Notebook (?))    
+    
+    ? -> ! 문답식을 통한 화면 전환  
   - 내가 관심을 갖고 좋아하는 분야(Dev, Data Science, AI, IoT, Life Style, Health, Sports, Business,  
      Strategic Planning, Optimization, philosophy, Music, Fashion, Food 등) 들을  
      나만의 색깔과 방식으로 엮어내고, 창조하는 일  
@@ -109,7 +111,7 @@
   >
   > 개발 외주
 
-- 나의 Identity와 철학을 기반으로 현상을 보고, 기록하고, 경제적 활동을 하고 결과물을 만드며 살아가기
+- 나의 Identity와 철학을 기반으로 현상을 보고, 기록하고, 사회 경제적 활동을 하고 결과물을 만드며 살아가기
 
 - 사회 현상(경제, 정치, 경영 비즈니스적인 부분 등) 에 대해 깊은 나만의 시각을 갖기
 
@@ -120,7 +122,7 @@
 
 - '멋'이 있는 사람 되기
 
-- Crew 같은 추구하는 가치가 비슷한 group과 함께 하기 - Network 형성
+- Crew 같은, 추구하는 가치가 비슷한 group과 함께 하기 - Network 형성
 
 - Self-Branding -> Service Creating
 
@@ -160,7 +162,7 @@
 
 
 
-## Action Plan (Ver. 2020-05)
+## Action Plan (Ver. 2020-06)
 
 
 
