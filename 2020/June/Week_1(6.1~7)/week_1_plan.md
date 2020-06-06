@@ -70,7 +70,9 @@
   
 - Home trainning
 
-- 200 준비
+- 200 준비 (잠옷?)
+
+- hair cut (Tue.)
 
 - 200 여행 (weekend.)
 
