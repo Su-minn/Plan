@@ -133,3 +133,4 @@
 
 
 - [Week_1 (6.1 ~ 6.8)](/Users/sjeon/Desktop/For_min/Plan/2020/June/Week_1(6.1~7)/week_1_plan.md)
+- [Week_2_(6.9 ~ 6.15)](/Users/sjeon/Desktop/For_min/Plan/2020/June/Week_2(6.8~14)/week_2_plan.md)
