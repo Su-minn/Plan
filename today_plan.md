@@ -1,4 +1,4 @@
-## today_plan_0616
+## today_plan_0617
 
 
 
@@ -14,15 +14,15 @@
 
 - ==Tistory 최신화==
 
+- ==Home Training==
+
 
 
 ### Business
 
-- 쿠팡 500개 Listing 완료
+- ==쿠팡 100개 Listing 완료==
 
-  > Complete! (🐥)
-
-  - 현 500개
+  > 현 20개
 
 - ==지마켓 / 옥션 입점 처리==
 
@@ -33,6 +33,8 @@
 - ==python project 설계 및 진행==
 
   > 진행중 (~ing 🐣)
+  
+- ==42 GNL 분석 및 설계==
 
 
 

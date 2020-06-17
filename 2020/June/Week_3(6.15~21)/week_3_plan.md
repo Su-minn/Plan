@@ -4,6 +4,8 @@
 
 
 
+
+
 ## Action Plan (Ver. 2020-06)
 
 
@@ -18,8 +20,11 @@
 
   - [Su-minn_Tistory](https://sumartweet.tistory.com/) : [Sumartweet](https://sumartweet.tistory.com/)
 
-  2) 'Why not?'
-  남들이 6개월이 걸릴 것이라고 생각하는 일을, 1주일만에 할 수 있는 방법은 없는 지에 대한 끊임 없는 고민
+  2) 'Why not?'  
+  남들이 6개월이 걸릴 것이라고 생각하는 일을, 1주일만에 할 수 있는 방법은 없는 지에 대한 끊임 없는 고민  
+  3) 버리기  
+  눈 앞의 목표에 하나씩 집중,   
+  속도감 있게 나가되, 조급하지 않게.
 
 
 
@@ -42,16 +47,15 @@
     	Micracle Dream    
 
     - Dev
-      
+  
 - 42
       - WebnApp-Service_project
 
-      [참고 - Dev_Plan](/Users/sjeon/Desktop/For_min/Dev_Place/Dev_plan.md)
-
-      
-      
-    - Pipeline Setting
-      : TwoFlex Project
+  [참고 - Dev_Plan](/Users/sjeon/Desktop/For_min/Dev_Place/Dev_plan.md)
+    
+  
+  - Pipeline Setting
+    : TwoFlex Project
 
 
 
@@ -63,7 +67,8 @@
 - Routine 습관화 & 체화 (미라클 Morning + 미라클 Dream = 미라클 Day)  
   건강 routine - 운동(Home Training) + 영양제   
   Sleep Cycle Management
-- Github & Tistory 정리
+- Github & Tistory 정리  
+  철학 내용 하나씩 정리 (가장 다른 분야의 일 넓혀가기.)
 - 지윤이랑 명륜진사갈비 (Thur.)
 
 
@@ -101,7 +106,7 @@
 
   - 지속적 학습 및 정리
 
-- 지마켓, 옥션 입점 처리
+- 지마켓, 옥션 입점 처리 (Wed.)
 
 - 신용카드 결과 확인
 
