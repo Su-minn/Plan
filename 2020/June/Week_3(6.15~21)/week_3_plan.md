@@ -46,16 +46,16 @@
     	Reading  
     	Micracle Dream    
 
-    - Dev
+  - Dev
   
-- 42
-      - WebnApp-Service_project
-
+    - 42
+    - WebnApp-Service_project
+  
   [참고 - Dev_Plan](/Users/sjeon/Desktop/For_min/Dev_Place/Dev_plan.md)
-    
+      
   
-  - Pipeline Setting
-    : TwoFlex Project
+    - Pipeline Setting
+      : TwoFlex Project
 
 
 
@@ -100,13 +100,13 @@
 
   - 1주일 추가 600 Listing -> 1000 Listing 진행  
 
-    > 현재 500 Lisiting 완료 (0616 기준)
+    > 현재 700 Lisiting 완료 (0618(수) 기준)
 
   - Operation에 대한 고민
 
   - 지속적 학습 및 정리
 
-- 지마켓, 옥션 입점 처리 (Wed.)
+- 지마켓, 옥션 입점 처리
 
 - 신용카드 결과 확인
 
