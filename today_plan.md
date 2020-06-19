@@ -7,20 +7,25 @@
 - ==독서==
 
   - Titans' tool 정리
-- ==Github 최신화==
+
+- Github 최신화
+
 - ==Tistory 최신화==
-- ==Home Training==
-- ==지윤이랑 갈비먹기==
+
+- Home Training
+
+- 지윤이랑 갈비먹기
+
+  > Complete (🐥)
 
 
 
 ### Business
 
-- ==쿠팡 60개 Listing 완료==
+- 쿠팡 60개 Listing 완료
 
-  > 현 40개
+  > Complete (🐥)
 
-- ==지마켓 / 옥션 입점 처리==
 
 
 
@@ -58,7 +63,7 @@
 
 - ==쿠팡 60개 Listing 완료==
 
-  > 현 40개
+  > 현 0개
 
 - ==지마켓 / 옥션 입점 처리==
 
