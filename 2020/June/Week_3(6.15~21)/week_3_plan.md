@@ -52,6 +52,7 @@
   
     - 42
     - WebnApp-Service_project
+    - AI-bot 살펴보기
   
   [참고 - Dev_Plan](/Users/sjeon/Desktop/For_min/Dev_Place/Dev_plan.md)
       
@@ -120,7 +121,7 @@
 
   - 1주일 추가 600 Listing -> 1000 Listing 진행  
 
-    > 현재 700 Lisiting 완료 (0618(수) 기준)
+    > 현재 900 Lisiting 완료 (0620(토) 기준)
 
   - Operation에 대한 고민
 
