@@ -1,6 +1,6 @@
 
 
-# Week_3_Plan
+# Week_3_Result
 
 
 
@@ -58,7 +58,7 @@
       
   
     - Pipeline Setting
-      : TwoFlex Project
+      : [TwoFlex Project](/Users/sjeon/Desktop/Online_Business/Mins_Business/Business_Starategy.md)
 
 
 
@@ -68,13 +68,18 @@
 
 
 
-- 연간 계획 및 Life Plan(Self-Branding) 정리
-- Routine 습관화 & 체화 (미라클 Morning + 미라클 Dream = 미라클 Day)  
+- ==연간 계획 및 Life Plan(Self-Branding) 정리==
+
+- ==Routine 습관화 & 체화 (미라클 Morning + 미라클 Dream = 미라클 Day)==  
   건강 routine - 운동(Home Training) + 영양제   
   Sleep Cycle Management
-- Github & Tistory 정리  
+  
+- ==Github & Tistory 정리==  
   철학 내용 하나씩 정리 (가장 다른 분야의 일 넓혀가기.)
+  
 - 지윤이랑 명륜진사갈비 (Thur.)
+
+  > Complete ! (🐥)
 
 
 
@@ -88,14 +93,16 @@
 
 ### 42_Cursus
 
-- GNL 구현 완료
-- Report 작성 완료
+- ==GNL 구현 완료==
+- Report 작성 완료  
+
+  > Complete ! (🐥)
 
 
 
 ### Project
 
-- WebnApp-Service_project
+- ==WebnApp-Service_project==
 
 
 
@@ -108,26 +115,48 @@
 
 
 - 동업 및 business routine 정립
-  - 오프라인 회의 날짜
-  - 온라인 회의 전화 날짜
+
+  > Complete ! (🐥)
+
+  - official 오프라인 회의 날짜
+  - official 온라인 회의 전화 날짜
     - 본인 업무 - 계획 생각 공유
     - 현재 진행 상황
     - 이슈 공유
     - 도움
     - CS
-- ==Coupang Project 진행  (~ 6. 21 (Sun.))==   
-- 1주일 추가 600 Listing -> 1000 Listing 진행  
-  
-- Operation에 대한 고민
-  
-- 지속적 학습 및 정리
-- 지마켓, 옥션 입점 처리
-  - 추후 논의
+
+- Coupang Project 진행  (~ 6. 21 (Sun.))   
+
+  - 1주일 추가 600 Listing -> 1000 Listing 진행  
+
+    > Complete ! (🐥)
+
+  - Operation에 대한 고민
+
+  - 지속적 학습 및 정리
+
+- ==지마켓, 옥션 입점 처리==
+
+  - Nice 기업 인증 필요
+
 - 신용카드 결과 확인
-- 사업자 등록 재확인 > 신상마켓 / 링크샵스 재신청
+
+  > Complete ! (🐥)
+
+- ==사업자 등록 재확인 > 신상마켓 / 링크샵스 재신청==
+
 - 승현 오프라인 회의 (Fri.)
+
+  > Complete ! (🐥)
+
 - 앞으로의 방항성, 목표 구체화, Road Map 정리
+  
+  > Complete ! (🐥)
+  
   - Shopee 고민
     - 싹쇼피 프로그램 사용권 활용성
+  
 - 온라인 해공대님 모임 참석 고민
-- 투플렉스 강의 고민
+
+- ==투플렉스 강의 고민==
