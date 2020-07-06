@@ -1,4 +1,4 @@
-## today_plan_0628 (Sun.)
+## today_plan_0706 (Mon.)
 
 
 
@@ -6,19 +6,37 @@
 
 ### Life
 
+- 월간 주간 계획 정리
+
+  - 6월 result 작성
+
+    > Complete (🐥)
+
+  - 7월 plan 작성
+
+    > Complete (🐥)
+
+  - 7월 1주차 작성
+
+    > Complete (🐥)
+
+  - 7월 2주차 작성
+
+    > Complete (🐥)
+
 - ==독서==
 
   - Titans' tool 정리
 
-- Github 최신화
+- Business 계획 정리
 
   > Complete (🐥)
+
+- ==Github 최신화==
 
 - ==Home Training==
 
 - ==ebs 경제 관련 다큐 시청==
-
-- ==일헥타르 듣고 정리==
 
 - ==Tistory 최신화==
 
@@ -30,7 +48,11 @@
 
 ### Business
 
+- 슈브제 응답
 
+- 배대지 이슈 (운송장 번호 불일치)
+
+- 모기장 통관번호 이슈
 
 - 강의 수강
 
@@ -62,8 +84,8 @@
 
 
 
-## tomorrow_plan_0628 (Mon.)
+## tomorrow_plan_0707 (Tues.)
 
 
 
-
+가랜드 여름 환경구성

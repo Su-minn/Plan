@@ -179,7 +179,10 @@
   - [Su-minn_Tistory](https://sumartweet.tistory.com/) : [Sumartweet](https://sumartweet.tistory.com/)
   
   2) 'Why not?'
-  남들이 6개월이 걸릴 것이라고 생각하는 일을, 1주일만에 할 수 있는 방법은 없는 지에 대한 끊임 없는 고민
+  남들이 6개월이 걸릴 것이라고 생각하는 일을, 1주일만에 할 수 있는 방법은 없는 지에 대한 끊임 없는 고민  
+  
+  3) 근본을 볼 수 있는 눈 기르기   
+  Boiling down to their fundermental truth and reason up from there
 
 
 
