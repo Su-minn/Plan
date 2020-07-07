@@ -146,6 +146,7 @@
 - Operations와 Automation에 대한 고민과 학습
 - 경영(마이클 포터 Value Chain 등) & 마케팅 학습
 - Shopee 기반 잡기
+- 지마켓, 옥션 글로벌 셀러 신청 (7.20)
 
 
 

@@ -69,10 +69,10 @@
 
 - ==Routine 습관화 & 체화==  
   
-  > Real Minracle Morning  
+  > Real Min-racle Morning  
   > 7.7 (Tue) - 1일차
   >
-  > 진행여부 - Complete ?
+  > 진행여부 - Complete ! 🐥🐥
   
 - ==Home Training==
 
