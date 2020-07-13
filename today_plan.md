@@ -1,4 +1,4 @@
-## today_plan_0712 (Sun.)
+## today_plan_0713 (Mon.)
 
 
 
@@ -6,50 +6,69 @@
 
 - Real Min-racle Morning  
 
-  > 7.12 (Sun.) 
+  > 7.13 (Mon.) 
   >
-  > 내일부터 재시작. (😨)
+  > 다시 시작 1일차.
+  >
+  > 진행 여부 - Complete ! 🐥
 
 - ==Github 최신화==
 
 - ==Home Training==
 
-- ==Week Plan Result 작성==
+- Week 3 Plan 작성
+
+  > Complete ! (🐥)
 
 - ==정다르크 정주행 및 정리==
 
 - ==Life plan 재점검==
 
+  - 카톡 적은글 반영
+  - Business Plan 재점검
+
 - ==Ebs 자본주의 시청==
 
-- ==Tistory 정리==
+- ==Tistory 1일 1정리==
 
   
 
 ### Business
 
+> 진짜 각성하고 몰입하기로 결심한 파트.
+>
+> Plan - ==Do== - See  
+> 정말 쏟아부어보자.
+
+
+
 - ==Twoflex Project==
 
-  > 최소 100개 Listing
+  > Listing
 
+- ==주문처리==
+
+  - ==발주서 다운 - 통관번호 일치 확인==
+  - ==타오바오 주문==
+  - ==배대지 결제==
+
+- ==모기장 통관번호 이슈 처리==
+
+  > 진행 중 (🐣)
 
 
 
 ### Dev
 
-- ==42 Study==
+- 42 Study
 
-  - ==42 Netwhat Success==
+  - GNL study
 
-    - Study 후 Test
-    - 평가 3회 진행
+    > Complete ! (🐥)
 
-  - ==테크 세미나 복습==
+- ==테크 세미나 복습==
 
-  
-
-  
-- ==AI bot 학습==
+- ==OSS 결과 확인==
 
 
 
@@ -63,7 +82,7 @@
 
 
 
-## tomorrow_plan_0713 (Mon.)
+## tomorrow_plan_0714 (Tues.)
 
 
 
@@ -73,6 +92,7 @@
 
 - 모기장 통관번호 이슈 처리
 - 쿠팡 고객센터 연락
+- 투트랙님 강의
 
 
 
@@ -138,3 +158,24 @@
   
 
 - ==AI bot 학습==
+
+
+
+
+
+
+
+---
+
+---
+
+
+
+
+
+## To-do List 분류
+
+
+
+- Comeplete ! (🐥)
+- 진행 중 (🐣)

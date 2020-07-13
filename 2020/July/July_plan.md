@@ -74,7 +74,7 @@
 - Routine 습관화 & 체화 // 특히, 수면관리에 대해 신경 쓰기
 
   > Real Minracle Morning  
-  > 7.7 (Tue) - 1일차
+  > 7.13 (Mon) - 1일차
 
 - Tistory, github 관리하기
 
