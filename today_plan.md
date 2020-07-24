@@ -1,4 +1,4 @@
-## today_plan_0721 (Tues.)
+## today_plan_0724 (Fri.)
 
 
 
@@ -6,11 +6,11 @@
 
 - ==Real Min-racle Morning==  
 
-  > 7.21 (Tues.) 
+  > 7.24 (Fri.) 
   >
-  > 다시 시작 2일차.
+  > 다시 시작 1일차.
   >
-  > 진행 여부 - Complete! 🐥
+  > 진행 여부 - 
   > ==그럼에도 불구하고== 정신이 필요하다고 생각  
   > 취침의 중요성, 1시전에는 무조건 자기
 
@@ -33,20 +33,27 @@
 
 ### Dev
 
-- 42 Study
+- ==42 Study==
 
-  - GNL study - 디버깅
-  - 평가 진행
+  - 평가 받기 3회 및 마무리
 
-  > Complete ! (🐥)
+    
 
 - ==OSS 계획 작성==
 
-- ==Report 작성==
+  - Git 강의 수강
+  - Tensorflow 튜토리얼 진행
+  - 리딩 계획 알아보기
 
-- ==Web 만들기==
+- Report 작성
 
+  > Comeplete ! (🐥)
 
+- Web Update
+
+  > https://jussuit.ga
+  >
+  > Comeplete ! (🐥)
 
 
 
@@ -61,26 +68,24 @@
 
 - 상품 배송 관리 Check - Notion
 
-  - EMS 통관번호 문자 보내기
-  - 악력측정기 이슈 - 문자보내기
-
-  > Complete ! (🐥)
+  > 운동 매트 문자
+  >
+  > Comeplete ! (🐥)
 
 - ==Twoflex Project==
 
   > 100개 Listing
 
-- ==주력 상품 분석 엑셀 만들기==
+  
 
-  - 키워드별 순위
-    - 쿠팡
-    - 네이버
-  - 스스 판매가능가
-  - 쿠팡 판매가능가
-  - 우리 가격
-  - URL 정보
+- 아톡 재결제
 
+  > Comeplete ! (🐥)
 
+  
+
+- ==승현==
+  - EMS 글로벌 셀러 신청 요청
 
 
 
@@ -92,20 +97,13 @@
 
 
 
-## tomorrow_plan_0722 (Wed.)
+## tomorrow_plan_0725 (Sat.)
 
 
 
 ### Next Plan
 
-- 비 안오면 도산 공원
-- EMS 글로벌 셀러 신청 요청
-
-
-
-
-
-
+- 옵티맛 약속
 
 
 
@@ -125,3 +123,8 @@
 - 진행 중 (🐣)
 
 - Fail (😨)
+
+
+
+
+

@@ -18,7 +18,7 @@
 
   - [Su-minn_Github](https://github.com/Su-minn)
   - [Su-minn_Tistory](https://sumartweet.tistory.com/) : [Sumartweet](https://sumartweet.tistory.com/)
-  - Su-minn Site :
+  - Su-minn Site : https://jussuit.ga
 
   2) 'Why not?'
   남들이 6개월이 걸릴 것이라고 생각하는 일을, 1주일만에 할 수 있는 방법은 없는 지에 대한 끊임 없는 고민   
@@ -144,6 +144,13 @@
 - Twoflex Project
   - 700개 Listing
 - 주력 상품 분석 엑셀 만들기
+  - 키워드별 순위
+    - 쿠팡
+    - 네이버
+  - 스스 판매가능가
+  - 쿠팡 판매가능가
+  - 우리 가격
+  - URL 정보
 - 정다르크 정주행 및 정리
 - 반자동 프로그램 후기 작성
 - 지속가능성과 확장성에 대한 고민
