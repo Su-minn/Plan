@@ -1,12 +1,12 @@
-## today_plan_0724 (Fri.)
+## today_plan_0726 (Sun.)
 
 
 
 ### Life
 
-- ==Real Min-racle Morning==  
+- Real Min-racle Morning  
 
-  > 7.24 (Fri.) 
+  > 7.27 (Mon.) 
   >
   > 다시 시작 1일차.
   >
@@ -27,33 +27,33 @@
 
 - ==Tistory 1일 1정리==
 
+- ==Week_4 Result 작성==
+
+- ==August week_1 Plan 작성==
+
+- ==August  Plan 작성==
+
   
 
 
 
 ### Dev
 
-- ==42 Study==
-
-  - 평가 받기 3회 및 마무리
-
-    
-
-- ==OSS 계획 작성==
+- OSS 계획 작성
 
   - Git 강의 수강
+
+    > Comeplete ! (🐥)
+
   - Tensorflow 튜토리얼 진행
+
   - 리딩 계획 알아보기
 
-- Report 작성
-
-  > Comeplete ! (🐥)
-
-- Web Update
+- ==Web Update==
 
   > https://jussuit.ga
   >
-  > Comeplete ! (🐥)
+  > httrack
 
 
 
@@ -68,7 +68,7 @@
 
 - 상품 배송 관리 Check - Notion
 
-  > 운동 매트 문자
+  > 운동 매트 문자 재발송 (Mon.)
   >
   > Comeplete ! (🐥)
 
@@ -78,14 +78,11 @@
 
   
 
-- 아톡 재결제
+- 해공대님 후기 작성
 
   > Comeplete ! (🐥)
 
   
-
-- ==승현==
-  - EMS 글로벌 셀러 신청 요청
 
 
 
@@ -97,13 +94,17 @@
 
 
 
-## tomorrow_plan_0725 (Sat.)
+## tomorrow_plan_0727 (Mon.)
 
 
 
 ### Next Plan
 
-- 옵티맛 약속
+- 승현 회의
+  - EMS 글로벌 셀러 신청 요청
+- 컨트리뷰톤 발대식
+- 순화 일정 알려주기
+- 42 4대보험 제출
 
 
 
