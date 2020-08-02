@@ -1,4 +1,4 @@
-## today_plan_0726 (Sun.)
+## today_plan_0802 (Sun.)
 
 
 
@@ -6,11 +6,11 @@
 
 - Real Min-racle Morning  
 
-  > 7.27 (Mon.) 
+  > 8.2 (Sun.) 
   >
-  > 다시 시작 1일차.
+  > 1일차.
   >
-  > 진행 여부 - 
+  > 성공 여부 - 🐥
   > ==그럼에도 불구하고== 정신이 필요하다고 생각  
   > 취침의 중요성, 1시전에는 무조건 자기
 
@@ -18,20 +18,20 @@
 
 - ==Home Training==
 
-- ==정다르크 정주행 및 정리==
+- ==One day, One Philosophy==
 
-- ==Life plan 재점검==
+- ==작심 가보기==
 
-  - 카톡 적은글 반영
-  - Business Plan 재점검
+- ==Week_1 Result==
 
-- ==Tistory 1일 1정리==
+- ==Week_2 Plan==
 
-- ==Week_4 Result 작성==
+- ==GRIT 읽기 with pen.==
 
-- ==August week_1 Plan 작성==
+- ==연간 하반기 계획 및 Life Plan(Self-Branding) 정리 및 점검==
 
-- ==August  Plan 작성==
+  - 구체적 Visualizing - Design Thinking 참고
+  - 책을 쓴다는 것, 어떤 책의 저자라는 것이 나를 표현하는 하나의 좋은 방법이 되는 것 같다
 
   
 
@@ -39,50 +39,50 @@
 
 ### Dev
 
-- OSS 계획 작성
+- ==42_Cursus==
+  - Report 확인
 
-  - Git 강의 수강
-
-    > Comeplete ! (🐥)
-
+- ==OSS Study==
   - Tensorflow 튜토리얼 진행
+  - Git 고급 실습 진행
+  - 논문 Study
 
-  - 리딩 계획 알아보기
 
-- ==Web Update==
-
-  > https://jussuit.ga
-  >
-  > httrack
 
 
 
 ### Business
 
-> 진짜 각성하고 몰입하기로 결심한 파트.
->
-> Plan - ==Do== - See  
-> 정말 쏟아부어보자.
 
 
+- ==Daily Management Check - Notion==
 
-- 상품 배송 관리 Check - Notion
-
-  > 운동 매트 문자 재발송 (Mon.)
+  > 운동 매트 환불처리
   >
-  > Comeplete ! (🐥)
+  > EMS 문자 발송
+
+- ==Notion 체계적 정리==
+
+  - 서울대 공부법 참조
 
 - ==Twoflex Project==
 
-  > 100개 Listing
+- ==승현 회의==
+
+  - 지마켓, 옥션 각각 글로벌 셀러 확인
+
+  > CS 팀뷰어로 설명하고 넘겨주기로.  
+  > 분업 예정
+  >
+  > 중단에 대한 논의
+  >
+  > 객관적으로 판단해서, 지금과 같은 상황의 연속이면  
+  > 더 이상은 힘들다고 생각.  
+  > 서로에게 좋은 방향.
 
   
 
-- 해공대님 후기 작성
 
-  > Comeplete ! (🐥)
-
-  
 
 
 
@@ -94,23 +94,47 @@
 
 
 
-## tomorrow_plan_0727 (Mon.)
+
+
+
+
+## tomorrow_plan_0803 (Mon.)
 
 
 
 ### Next Plan
 
-- 승현 회의
-  - EMS 글로벌 셀러 신청 요청
-- 컨트리뷰톤 발대식
-- 순화 일정 알려주기
-- 42 4대보험 제출
+
+
+### 	Life
+
+
+
+
+
+### 	Dev
+
+- 
+
+
+
+### 	Business
+
+- 
+
+
+
+
 
 
 
 ---
 
 ---
+
+
+
+
 
 
 
