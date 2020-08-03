@@ -1,4 +1,4 @@
-## today_plan_0802 (Sun.)
+## today_plan_0803 (Mon.)
 
 
 
@@ -6,9 +6,9 @@
 
 - Real Min-racle Morning  
 
-  > 8.2 (Sun.) 
+  > 8.3 (Mon.) 
   >
-  > 1일차.
+  > 2일차.
   >
   > 성공 여부 - 🐥
   > ==그럼에도 불구하고== 정신이 필요하다고 생각  
@@ -20,32 +20,71 @@
 
 - ==One day, One Philosophy==
 
-- ==작심 가보기==
+- 작심
 
-- ==Week_1 Result==
+  - 시크릿 2번 자리
 
-- ==Week_2 Plan==
+- Week_2 Plan
 
-- ==GRIT 읽기 with pen.==
+  > Comeplete ! (🐥)
 
-- ==연간 하반기 계획 및 Life Plan(Self-Branding) 정리 및 점검==
+- GRIT 읽기 with pen.
 
-  - 구체적 Visualizing - Design Thinking 참고
+  > (~ p. 96 / p. 366)
+  >
+  > [Mindmap](/Users/sjeon/Desktop/For_min/Thinking/Books/GRIT.xmind)
+  >
+  > Comeplete ! (🐥)
+
+- ==Life Plan(Self-Branding) 정리 및 점검==
+
+  - 구체적 Visualizing
+    - Mindmap 과 체계화
   - 책을 쓴다는 것, 어떤 책의 저자라는 것이 나를 표현하는 하나의 좋은 방법이 되는 것 같다
 
   
 
-
-
 ### Dev
 
-- ==42_Cursus==
-  - Report 확인
-
+- 42_Cursus
+  
+- ft_printf 구현
+  
+    > Comeplete ! (🐥)
+  
+  - report 작성
+  
+    > Comeplete ! (🐥)
+  
 - ==OSS Study==
+  
   - Tensorflow 튜토리얼 진행
+  
+  - 회의 진행 (10시)
+  
+    > Comeplete ! (🐥)
+  
   - Git 고급 실습 진행
+  
+  - 아이디어 정하기
+  
   - 논문 Study
+  
+  - 라즈베리파이 학습
+  
+- ==Python 300제==
+
+  - 20제 풀이 및 Xmind 정리
+
+  - [Python Mindmap](/Users/sjeon/Desktop/For_min/Dev_place/Python/Python.xmind)
+
+    > (~ 10 / 300) 진행 중
+    >
+    > Comeplete ! (🐥)
+
+- VoyagerX
+
+  - [VoyagerX Mindmap](https://www.notion.so/Career-at-VoyagerX-d3c334b287494f3a81d9991c892dd582)
 
 
 
@@ -55,31 +94,29 @@
 
 
 
-- ==Daily Management Check - Notion==
+- Daily Management Check - Notion
 
-  > 운동 매트 환불처리
+  > Comeplete ! (🐥)
   >
-  > EMS 문자 발송
+  > 환불처리 진행
+  >
+  > 파손 관련 처리
 
-- ==Notion 체계적 정리==
-
-  - 서울대 공부법 참조
-
-- ==Twoflex Project==
-
-- ==승현 회의==
+- 승현 회의
 
   - 지마켓, 옥션 각각 글로벌 셀러 확인
 
   > CS 팀뷰어로 설명하고 넘겨주기로.  
   > 분업 예정
   >
+  > 
+  >
   > 중단에 대한 논의
   >
   > 객관적으로 판단해서, 지금과 같은 상황의 연속이면  
-  > 더 이상은 힘들다고 생각.  
+> 더 이상은 힘들다고 생각.  
   > 서로에게 좋은 방향.
-
+  
   
 
 
@@ -98,7 +135,7 @@
 
 
 
-## tomorrow_plan_0803 (Mon.)
+## tomorrow_plan_0804 (Tues.)
 
 
 

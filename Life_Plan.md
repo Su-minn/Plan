@@ -12,8 +12,6 @@
 
 ### Goal : 추억, 최선, 기대
 
-> 
-
 
 
 - Self_Branding
