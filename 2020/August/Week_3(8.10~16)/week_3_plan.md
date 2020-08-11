@@ -6,38 +6,76 @@
 
 
 
-
-
-## Action Plan (Ver. 2020-07)
+## Action Plan (Ver. 2020-08)
 
 
 
-- Rule
+- Jussuit's Tool
 
-  0) 즐기기, 목적이 전도되지 않도록, 모순적인 삶을 살지 않도록.  
-  1) 모든 것에 대한 정리와 기록 (Titan's Tool -> My Tool)  
+  
+
+  0) 여유를 갖고 즐기기, 목적이 전도되지 않도록, 모순적인 삶을 살지 않도록.   
+  'laid-back & Humlity'
+
+  
+
+  1) 모든 것에 대한 정리와 기록 (Titan's Tool -> Jussuit's Tool)  
   완전히 나의 것으로 만들기 위한 노력
 
-  - [Su-minn_Github](https://github.com/Su-minn)
-- [Su-minn_Tistory](https://sumartweet.tistory.com/) : [Sumartweet](https://sumartweet.tistory.com/)
-  - Su-minn Site : 
+  - Jussuit's Github : [Su-minn_Github](https://github.com/Su-minn)
+  - Jussuit's_Tistory : [Sumartweet](https://sumartweet.tistory.com/)
+  - Jussuit's Site : https://jussuit.ga
+  - Jussuit's Notion : 예정
+
+  > Tool
+  >
+  > 글 : Typora
+  > 코드 : VScode
+  > 마인드맵 : Xmind
+
+  
 
   2) 'Why not?'
   남들이 6개월이 걸릴 것이라고 생각하는 일을, 1주일만에 할 수 있는 방법은 없는 지에 대한 끊임 없는 고민   
-  3) 근본을 볼 수 있는 눈 기르기   
-  Boiling down to their fundermental truth and reason up from there  
-  4) 다 버리고, 현 상황을 인정하고 시작하자. 
-
-
-
-- Tool : 
-
-  Schedule - Notion
-  Cloud - Tistory / Github
-  Markdown - Typora
-  // 추후 Porfolio 화
 
   
+
+  3) 근본을 볼 수 있는 눈 기르기   
+  Boiling down to their fundermental truth and reason up from there  
+
+  
+
+  4) Miracle Morning & Dream
+
+  - 구체적인 시간과,  
+    미니멀한 Action Routine Setting
+
+  
+
+  5) ['5 seconds Rule'](https://www.youtube.com/watch?v=drVlhvX04XI)  
+
+  - 5, 4, 3, 2, 1.  
+    Jussuit, Start living!
+
+  - Activation Energy
+
+  
+
+  6) GRIT
+
+  - [Mindmap](/Users/sjeon/Desktop/For_min/Thinking/Books/GRIT.xmind)
+
+  - 절실함
+
+    - 압도적이지 않으면, 아무것도 지킬 수가 없다.
+    - 가능성을 믿는 강력한 정신력.
+
+  - 사고를 한 방향으로 모아 모든 것을 소재로 활용하며 자신과 타인의 내면을 부단히 관찰하여 어디에서나 본보기와 자극을 찾아내고, 지칠 줄 모르고 자신의 방식으로 결합시키는 사람들이 위대한 업적을 이룬다.
+
+    > Friedrich Wilhelm Nietzsche
+
+
+
 
 - Action Plan
 
@@ -49,7 +87,7 @@
     	Micracle Dream    
 
   - Dev
-    : 42 Study & AI-bot Project
+    : 42 Study & OSS Project
 
     [참고 - Dev_Plan](/Users/sjeon/Desktop/For_min/Dev_Place/Dev_plan.md)
 
@@ -60,25 +98,41 @@
 
 
 
+
+
 ## Life
 
 
 
-### Goal : 미라클 모닝 및 Routine 반드시 체화 시키기
+### Goal : Jussuit's Tool 습관화 & 루틴 안정화 - 작심 Life
 
 
 
 - Routine 습관화 & 체화
+
+- 작심 Life
+
+  - 시크릿 2번
+
+- GRIT 읽기 with pen.
+
+  > (~ p. 131 / p. 366)
+  >
+  > [Mindmap](/Users/sjeon/Desktop/For_min/Thinking/Books/GRIT.xmind)
+
 - Home training
 
+- Tistory / Github / Jussuit Site 관리
+
 - 연간 계획 및 Life Plan(Self-Branding) 정리
-- Github & Tistory 정리  
-  철학 내용 하나씩 정리 (가장 다른 분야의 일 넓혀가기.)
-- 지윤이랑 도산공원 (Wed.)
-- 아버지 선물 사기 / 집 가기 (Thurs.)
-- 가족 휴가 (Fri ~ Sun.)
 
+  - 구체적 Visualizing - Mindmap 활용
 
+- Notion Webinar. (Tues.)
+
+- AR VR 컨퍼런스 (Fri.)
+
+- 지윤이랑 공연 데이트 (Sat.)
 
 
 
@@ -88,17 +142,64 @@
 
 
 
+### Goal :  
+
+### 42 Cursus - ft_printf Success
+
+### OSS - Project 진행 및 학습 & 회의
+
+### VoyagerX - Python 및 Deep Learning 학습
+
+
+
+
+
 ### 42_Cursus
 
-- Netwhat Success
+- ft_printf Success
 
-- GNL 구현 완료
 - Report 작성 완료
-- AI 웨비나 (Thur.)
+
+- 출입증 받기 (Tues.)
+
+  > Comeplete ! (🐥)
+
+- 42 People 회의
+
+  > Comeplete ! (🐥)
+
+
+
+
+
+### OSS
+
+- 정기 회의 (Wed. - pm 11:00)
+- 정기 오프라인 회의 (Sat. 오전)
+- 관련 내용 학습
+- Helmat Detection 구현
+
+
+
+
+
+### VoyagerX
+
+- [VoyagerX Mindmap](https://www.notion.so/Career-at-VoyagerX-d3c334b287494f3a81d9991c892dd582)
+- Python 300제 풀이 및 개념 정리
+  - [Python Mindmap](/Users/sjeon/Desktop/For_min/Dev_place/Python/Python.xmind)
+  - (~ 200 / 300) 진행
+- Deep Learning 교재 계획 작성 및 학습
+
+
 
 
 
 ## Business
+
+
+
+### Goal : 소싱 프로그램 작성 완료 및 300개 Listing
 
 
 
@@ -109,17 +210,8 @@
 
 
 
-- 동업 및 business routine 정립
-  - 오프라인 회의 날짜
-  - 온라인 회의 전화 날짜
-    - 본인 업무 - 계획 생각 공유
-    - 현재 진행 상황
-    - 이슈 공유
-    - 도움
-    - CS
-- 정다르크 정주행 및 정리
-- Operation에 대한 고민
-- 앞으로의 방항성, 목표 구체화, Road Map 정리
-- 반자동 프로그램 후기 작성
-- 투트랙님 강의 (Tue.)
-- 투트랙 지원 마감 (Thurs.)
+- Daily Management Check - Notion
+- 승현 회의
+- 나도코딩 크롤링 강의
+- Sourcing Program 만들기
+- 300개 Listing 완료
