@@ -1,6 +1,6 @@
 
 
-# Week_3_Plan
+# Week_5_Plan
 
 
 
@@ -74,6 +74,12 @@
 
     > Friedrich Wilhelm Nietzsche
 
+  
+
+  7) Thinking
+
+  - 체계화 예정
+
 
 
 
@@ -98,21 +104,27 @@
 
 
 
-
-
 ## Life
 
 
 
-### Goal : Jussuit's Tool 습관화 & 루틴 안정화 - 작심 Life
+### Goal : Jussuit's Tool 체화 & Life Style 정립
 
 
 
-- Routine 습관화 & 체화
+- Jussuit's Tool & 미라클 모닝 체화
 
-- 작심 Life
+- Fitness 관리
 
-  - 시크릿 2번
+  - Home training
+  - 영양제 섭취
+
+- 환경 Setting
+
+  > 환경 > 습관 > 의지 > 환경 Cycle
+
+  - 작심 Life
+    - 시크릿 2번
 
 - GRIT 읽기 with pen.
 
@@ -120,23 +132,15 @@
   >
   > [Mindmap](/Users/sjeon/Desktop/For_min/Thinking/Books/GRIT.xmind)
 
-- Home training
-
 - Tistory / Github / Jussuit Site 관리
 
-- 연간 계획 및 Life Plan(Self-Branding) 정리
+- One day One Thinking
 
-  - 구체적 Visualizing - Mindmap 활용
+- 연간 계획 및 Life Plan(Self-Branding) 추가 보완
 
-- Notion Webinar. (Tues.)
-
-  > - [x] Complete ! (🐥)
-
-- AR VR 컨퍼런스 (Fri.)
-
-  > - [x] Complete ! (🐥)
-
-
+- 지윤이랑 저녁 (Sun.)  
+  
+  
 
 
 
@@ -144,13 +148,13 @@
 
 
 
-### Goal :  
+### Goal :
 
 ### 42 Cursus - ft_printf Success
 
-### OSS - Project 진행 및 학습 & 회의
+### OSS - training model 구현 완료
 
-### VoyagerX - Python 및 Deep Learning 학습
+### DL - Do it deep learning  ~ Chap.5-4 (p.155)
 
 
 
@@ -159,44 +163,46 @@
 ### 42_Cursus
 
 - ft_printf Success
-
-- Report 작성 완료
-
-- 출입증 받기 (Tues.)
-
-  > Comeplete ! (🐥)
-
-- 42 People 회의
-
-  > Comeplete ! (🐥)
-
-
+  - [ ] 성공 여부
+- report 작성 완료
+  - [ ] 작성 여부
 
 
 
 ### OSS
 
 - 정기 회의 (Wed. - pm 11:00)
-
-  > Comeplete ! (🐥)
-
-- 정기 오프라인 회의 (Sat. 오전)
-
-- 관련 내용 학습
-
-- Helmat Detection 구현
+- 정기 오프라인 회의 (Sat. - am 11:00)
+- Model 구현
 
 
 
+### DL
 
+- Python 300제 풀이 및 개념 정리
 
-### VoyagerX
+  - [Python Mindmap](/Users/sjeon/Desktop/For_min/Dev_place/Python/Python.xmind)
+
+    > (~ 300 / 300) 진행 예정
+    > 260번 까지 진행 완료
+
+- Deep Learning 교재 계획 작성 및 학습
+
+  > ~ Chapter 5-4 / p. 155 학습 예정
+  >
+  > Chater 2 까지 진행 완료 
+
+- 생활코딩 수강
+
+  - 머신러닝
+  - Orange3
+  - Tesorflow
 
 - [VoyagerX Mindmap](https://www.notion.so/Career-at-VoyagerX-d3c334b287494f3a81d9991c892dd582)
-- Python 300제 풀이 및 개념 정리
-  - [Python Mindmap](/Users/sjeon/Desktop/For_min/Dev_place/Python/Python.xmind)
-  - (~ 200 / 300) 진행
-- Deep Learning 교재 계획 작성 및 학습
+
+  
+
+
 
 
 
@@ -206,7 +212,7 @@
 
 
 
-### Goal : 소싱 프로그램 작성 완료 및 300개 Listing
+### Goal : 최소 300개 Listing 완료
 
 
 
@@ -218,7 +224,12 @@
 
 
 - Daily Management Check - Notion
+  
 - 승현 회의
-- 나도코딩 크롤링 강의
-- Sourcing Program 만들기
-- 300개 Listing 완료
+
+  - 단체 주문 이슈 해결
+
+- 300개 Listing 예정
+
+  > 0개 완료
+

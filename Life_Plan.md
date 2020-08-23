@@ -162,36 +162,82 @@
 
 
 
-## Action Plan (Ver. 2020-06)
+## Action Plan (Ver. 2020-08)
 
 
 
-- Rule
+- Jussuit's Tool
+
   
-  0) 즐기기, 목적이 전도되지 않도록, 모순적인 삶을 살지 않도록.  
-1) 모든 것에 대한 정리와 기록 (Titan's Tool -> My Tool)  
+
+  0) 여유를 갖고 즐기기, 목적이 전도되지 않도록, 모순적인 삶을 살지 않도록.   
+  'laid-back & Humlity'
+
+  
+
+  1) 모든 것에 대한 정리와 기록 (Titan's Tool -> Jussuit's Tool)  
   완전히 나의 것으로 만들기 위한 노력
 
-  - [Su-minn_Github](https://github.com/Su-minn)
+  - Jussuit's Github : [Su-minn_Github](https://github.com/Su-minn)
+  - Jussuit's_Tistory : [Sumartweet](https://sumartweet.tistory.com/)
+  - Jussuit's Site : https://jussuit.ga
+  - Jussuit's Notion : 예정
 
-  - [Su-minn_Tistory](https://sumartweet.tistory.com/) : [Sumartweet](https://sumartweet.tistory.com/)
+  > Tool
+  >
+  > 글 : Typora
+  > 코드 : VScode
+  > 마인드맵 : Xmind
+
   
+
   2) 'Why not?'
-  남들이 6개월이 걸릴 것이라고 생각하는 일을, 1주일만에 할 수 있는 방법은 없는 지에 대한 끊임 없는 고민  
+  남들이 6개월이 걸릴 것이라고 생각하는 일을, 1주일만에 할 수 있는 방법은 없는 지에 대한 끊임 없는 고민   
+
   
+
   3) 근본을 볼 수 있는 눈 기르기   
-  Boiling down to their fundermental truth and reason up from there
-
-
-
-- Tool : 
-
-  Schedule - Notion
-  Cloud - Tistory / Github
-  Markdown - Typora
-  // 추후 Porfolio 화
+  Boiling down to their fundermental truth and reason up from there  
 
   
+
+  4) Miracle Morning & Dream
+
+  - 구체적인 시간과,  
+    미니멀한 Action Routine Setting
+
+  
+
+  5) ['5 seconds Rule'](https://www.youtube.com/watch?v=drVlhvX04XI)  
+
+  - 5, 4, 3, 2, 1.  
+    Jussuit, Start living!
+
+  - Activation Energy
+
+  
+
+  6) GRIT
+
+  - [Mindmap](/Users/sjeon/Desktop/For_min/Thinking/Books/GRIT.xmind)
+
+  - 절실함
+
+    - 압도적이지 않으면, 아무것도 지킬 수가 없다.
+    - 가능성을 믿는 강력한 정신력.
+
+  - 사고를 한 방향으로 모아 모든 것을 소재로 활용하며 자신과 타인의 내면을 부단히 관찰하여 어디에서나 본보기와 자극을 찾아내고, 지칠 줄 모르고 자신의 방식으로 결합시키는 사람들이 위대한 업적을 이룬다.
+
+    > Friedrich Wilhelm Nietzsche
+
+  
+
+  7) Thinking
+
+  - 체계화 예정
+
+
+
 
 - Action Plan
 
@@ -201,16 +247,14 @@
     	Health  
     	Reading  
     	Micracle Dream    
-    
-    - Dev
-      : SSi-Python Project
-  
-      [참고 - Dev_Plan](/Users/sjeon/Desktop/For_min/Dev_Place/Dev_plan.md)
-  
-      
-  
-    - Pipeline Setting
-      : [Shopee Project](/Users/sjeon/Desktop/Online_Business/Shopee/Doc/Shopee_Business_Management.md)
+
+  - Dev
+    : 42 Study & OSS Project
+
+    [참고 - Dev_Plan](/Users/sjeon/Desktop/For_min/Dev_Place/Dev_plan.md)
+
+  - Pipeline Setting
+    : [Twoflex Project](/Users/sjeon/Desktop/Business/Online_Business/Mins_Business/Business_Starategy.md)
 
 
 
